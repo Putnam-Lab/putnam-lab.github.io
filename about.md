@@ -1,6 +1,7 @@
 ---
 title: "Putnam Lab - University of Rhode Island"
 layout: about
+image: /images/headers/reef.jpg
 ---
 
 # Marine Invertebrate Ecological Epigenetics and Symbiosis

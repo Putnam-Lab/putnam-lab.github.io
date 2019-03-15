@@ -1,13 +1,14 @@
 ---
 title: "Team"
 layout: about
+image: /images/headers/reef.jpg
 ---
 
 Putnam Lab - University of Rhode Island
 
 ## Principal Investigator 
 ### Hollie Putnam
-![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/profile.jpg?raw=true=300x200)
+![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/profile.jpg?raw=true=100x50)
 
 
 ## Lab Manager 

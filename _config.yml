@@ -21,7 +21,7 @@ baseurl:  # the optional subpath of your site, e.g. "/blog"
 url: https://putnam-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Hollie Putnam
-  twitter: 
+  twitter: hollieputnam
   picture: 
 twitter_username: hputnam
 github_username: hputnam
