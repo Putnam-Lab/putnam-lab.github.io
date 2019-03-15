@@ -15,14 +15,10 @@ Our notebooks and code document thoughts, analyses, knowledge gains, roadblocks,
 ## Lab Notebooks
 
 ### Hollie Putnam  
-![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/profile.jpg?raw=true){:height="300px" width="200px"}
+![Putnam Notebook](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/lab_notebook_logo.jpg?raw=true){:height="100px" width="60px"}
 
-
-## Lab Manager  
  
 ### Maggie Schedl  
-
-## Graduate Students  
 
 ### Kevin Wong  
 
@@ -30,10 +26,4 @@ Our notebooks and code document thoughts, analyses, knowledge gains, roadblocks,
 
 ### Sam Gurr  
 
-## Undergraduate Students  
-
-### Maddie Sherman  
-
 ### Erin Chille  
-
-### Kiran Reed
