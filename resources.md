@@ -15,8 +15,7 @@ Our notebooks and code document thoughts, analyses, knowledge gains, roadblocks,
 ## Lab Notebooks
 
 ### Hollie Putnam  
-![Putnam Notebook](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/lab_notebook_logo.jpg?raw=true){:height="100px" width="60px"}
-
+[![Putnam Notebook](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/lab_notebook_logo.jpg?raw=true){:height="100px" width="60px"}](https://hputnam.github.io/Putnam_Lab_Notebook/)
  
 ### Maggie Schedl  
 
