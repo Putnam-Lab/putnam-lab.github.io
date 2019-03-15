@@ -1,6 +1,6 @@
 ---
 title: "Team"
-layout: team
+layout: about
 ---
 
 Putnam Lab - University of Rhode Island

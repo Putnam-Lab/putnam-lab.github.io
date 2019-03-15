@@ -1,5 +1,14 @@
 ---
 title: Projects
-layout: categories
-permalink: /categories/
+layout: about
 ---
+
+# Holobiont Integration
+
+# Ecological Epigenetics
+
+# Trans-generational Plasticity
+
+# Symbiosis
+
+# Biomineralization
