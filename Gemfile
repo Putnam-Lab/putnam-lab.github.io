@@ -7,5 +7,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
   gem "jekyll-algolia"
-  gem "jekyll-twitter-plugin"
+  gem ["jekyll-twitter-plugin"]
 end
