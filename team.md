@@ -7,6 +7,8 @@ Putnam Lab - University of Rhode Island
 
 ## Principal Investigator 
 ### Hollie Putnam
+![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/profile.jpg?raw=true)
+
 
 ## Lab Manager 
 ### Maggie Schedl
