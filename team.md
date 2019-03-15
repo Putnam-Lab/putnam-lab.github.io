@@ -8,7 +8,7 @@ Putnam Lab - University of Rhode Island
 
 ## Principal Investigator 
 ### Hollie Putnam
-![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/profile.jpg?raw=true =25x25)
+![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/profile.jpg?raw=25x25)
 
 
 ## Lab Manager 
