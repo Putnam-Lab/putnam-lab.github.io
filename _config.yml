@@ -17,7 +17,7 @@ lang: en-US
 title: Putnam Lab
 email: hputnam@uri.edu
 description: Ecological Epigenetics and Symbiosis
-baseurl: /notebook # the optional subpath of your site, e.g. "/blog"
+baseurl:  # the optional subpath of your site, e.g. "/blog"
 url: https://putnam-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Hollie Putnam
@@ -25,7 +25,7 @@ author:
   picture: 
 twitter_username: hputnam
 github_username: hputnam
-logo:  # path of site logo, e.g. "/assets/images/logo.png"
+logo: /images/logo.jpg # path of site logo, e.g. "/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
