@@ -18,11 +18,17 @@ Our notebooks and code document thoughts, analyses, knowledge gains, roadblocks,
 [![Putnam Notebook](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/lab_notebook_logo.jpg?raw=true){:height="100px" width="60px"}](https://hputnam.github.io/Putnam_Lab_Notebook/)
  
 ### Maggie Schedl  
-
+[![Schedl Notebook](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/lab_notebook_logo.jpg?raw=true){:height="100px" width="60px"}](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/)
+ 
 ### Kevin Wong  
-
+[![Wong Notebook](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/lab_notebook_logo.jpg?raw=true){:height="100px" width="60px"}](https://kevinhwong1.github.io/KevinHWong_Notebook/)
+ 
 ### Emma Strand  
-
+[![Strand Notebook](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/lab_notebook_logo.jpg?raw=true){:height="100px" width="60px"}](https://hputnam.github.io/Putnam_Lab_Notebook/)
+ 
 ### Sam Gurr  
-
+[![Gurr Notebook](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/lab_notebook_logo.jpg?raw=true){:height="100px" width="60px"}](https://hputnam.github.io/Putnam_Lab_Notebook/)
+ 
 ### Erin Chille  
+[![Chille Notebook](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/lab_notebook_logo.jpg?raw=true){:height="100px" width="60px"}](https://echille.github.io/E.-Chille-Open-Lab-Notebook/)
+ 
