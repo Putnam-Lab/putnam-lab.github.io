@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: about
-image: /images/headers/reef.jpg
+image: /images/headers/blend.jpg
 ---
 
 # Putnam Lab - University of Rhode Island
